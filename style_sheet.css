@@ -216,18 +216,4 @@ placeholder{
     padding-top: 15px;
     text-align: center;
 }
-.icon a{
-    text-decoration: none;
-    color: #fff;
-
-}
-.icon ion-icon{
-    color: #fff;
-    font-size: 30;
-    padding-left: 14px;
-    padding-top: 5px;
-}
-.icon ion-icon:hover{
-    color: #ff7200;
-}
 
